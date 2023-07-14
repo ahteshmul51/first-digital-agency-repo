@@ -7,11 +7,14 @@
     padding: 20px;
     color: white;
     list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
     
 }
-.menues ul{
-    list-style: none;
-}
+
+
+
 .logo-photo{
     width: 100px;
 }

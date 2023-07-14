@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-container{
+    background-color: #282727;
+    padding: 20px;
+    color: white;
+    list-style: none;
+    
+}
+.menues ul{
+    list-style: none;
+}
+.logo-photo{
+    width: 100px;
+}

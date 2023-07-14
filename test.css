@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* flex-direction: row-reverse; */
+
+}
+.box{
+    padding: 30px;
+    background-color: red;
+    width: 110px;
+
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: brown;
+}
